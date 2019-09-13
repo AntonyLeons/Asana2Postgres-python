@@ -1,4 +1,4 @@
-# Asana2Postgres-Python
+# Asana2Postgres-Python [![Build Status](https://travis-ci.com/AntonyLeons/Asana2Postgres-python.svg?token=iEHPmhnrfp4VatGpB9LT&branch=master)](https://travis-ci.com/AntonyLeons/Asana2Postgres-python)
 
 - Create a database
 - Ensure environment variables are set or coded
