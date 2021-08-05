@@ -11,4 +11,4 @@
 python <NAME> <PROJECT_ID> <TABLE_NAME>
 ```
 `<PROJECT_ID> <TABLE_NAME> ` are optional and default is support tickets table, however these must be in order so a `<PROJECT_ID>` must be set to set a `<TABLE_NAME>`.
-Database creation is NOT supported and to change database edit the py file.
+Database creation is supported and to change database edit the py file.
